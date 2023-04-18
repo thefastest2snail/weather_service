@@ -5,7 +5,7 @@ import win32serviceutil
 import win32service
 import win32event
 
-api_key = 'c3ab4ca3caa15ad0c63c0887fd492f49'
+api_key = 'API-KEY'
 
 city = 'Almaty'
 country_code = 'KZ'
